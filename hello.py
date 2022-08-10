@@ -1,3 +1,3 @@
-Welcome to tutorial
-Hi....!
-Hello....
+print('Welcome to tutorial')
+print('Hi....!')
+print('Hello....')
